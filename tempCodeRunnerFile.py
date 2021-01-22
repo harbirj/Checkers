@@ -1,1 +1,0 @@
-from checkers.board import Board
